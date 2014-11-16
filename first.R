@@ -5,4 +5,3 @@ gender = c("Fe","Fe","M","Fe")
 study = data.frame(weight,height,gender) # make the data frame
 study
 study[[1]]
-study[1]
